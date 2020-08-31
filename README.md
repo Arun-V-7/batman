@@ -8,3 +8,5 @@ Admin login is for only one accout(batman) and I have made the creds Visible in 
 User login you can create by signing in.
 
 You can find the sql file in the path \public\assets\sql\
+
+I archived the project to batman.zip unzip it to get the project files
